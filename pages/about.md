@@ -19,3 +19,8 @@ I enjoy watching Formula 1, air crash investigations, Gordon Ramsay’s cooking 
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+# **Education**
+<div class="row">
+{% include about/timeline.html %}
+</div>
