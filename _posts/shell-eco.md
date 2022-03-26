@@ -1,0 +1,6 @@
+title: IC Engine Team, Team BITS, BITS Pilani
+tags: [Jun 2021- Mar 2022]
+style: fill
+color: secondary
+description: The aim of Team BITS is to design a car that can fully run on ethanol. As a member of Team BITS, I re-engineered a motorcycle SI engine to an SPCCI engine for a car that can run on ethanol. I also designed an aerodynamic, lightweight, and durable chassis for the Shell Eco Asia competition.
+external_url: https://team-bits.in
