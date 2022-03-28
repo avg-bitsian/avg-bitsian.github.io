@@ -3,6 +3,6 @@ title: How to undo your git failure?
 tags: [External Post, Git]
 style: fill
 color: warning
-description: Using `git reflog` and `git reset` to save your code.
-external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74
+description: At CRISS Robotics, we are making rovers that can survive harsh Martian conditions and perform scientific tests. In the software team, we devised an efficient algorithm for adding autonomous driving abilities to the rover. Before joining software team, I was head of the chassis team where I designed and built the chassis of the rover.
+external_url: https://www.crissrobotics.in
 ---
