@@ -1,6 +1,6 @@
 ---
 title: Mechanical Team, Sally Robotics, BITS Pilani
-tags: [2021-present]
+tags: [June 2021-present]
 style: fill
 color: secondary
 description: At Sally Robotics, we work on building a fully autonomous car for the highly unstructured Indian roads. The mechanical
