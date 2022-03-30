@@ -5,5 +5,5 @@ style: fill
 color: warning
 description: At Sally Robotics, we work on building a fully autonomous car for the highly unstructured Indian roads. The mechanical
 team’s work entails mounting the sensors, actuators, increase structural stability, and reduce vibrations.
-external_url: https://www.sally-robotics.co.in
+#external_url: https://www.sally-robotics.co.in
 ---

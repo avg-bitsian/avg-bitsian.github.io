@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Priyansh Garg
 description         : >-
-                      The game is still on!
+                      The road less travelled has its own rewards
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : avg-bitsian/avg-bitsian.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
