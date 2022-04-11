@@ -1,5 +1,5 @@
 ---
-title: Software Team, CRISS Robotics
+title: Software Team, CRISS Robotics, BITS Pilani
 tags: [June 2021-Present]
 style: fill
 color: warning
