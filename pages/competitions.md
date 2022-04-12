@@ -21,7 +21,7 @@ APOGEE is annual tech fest of BITS Pilani, Pilani Campus. Our  project was an in
 
 
 ## **International Rover Design Challenge (IRDC)**
-<img align ="right" src="/img/IRDC_Both_bots_together.PNG" width="214">
+<img align ="right" src="/img/IRDC.PNG" width="333" height="187">
 <!-- ### Tools: Fusion 360, ANSYS -->
 This was an international virtual competition. The mechanical team designed a completely new rover based on the theme of the competition. This was our team CRISS Robotics' first ever competition and we ranked 18th out of all participating teams of the world.
 {% include elements/button.html link="https://drive.google.com/file/d/1xMNibk_3LGSugsrBwoNmly3OPilZ8qmi/view?usp=sharing" text="Certificate" %}
