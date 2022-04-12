@@ -7,7 +7,7 @@ weight: 1
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
+Hi I am **{{ site.author.name }}**.<br>
 I am a sophomore student at BITS Pilani, majoring in Manufacturing Engineering. <br>
 I enjoy watching Formula 1, air crash investigations, Gordon Ramsay’s cooking shows, and listening to American 80s Rock music. I am an extrovert by nature. In my free time, I spend an ungodly amount of time browsing Quora and reddit. <br>
 Sometimes, I make puns.

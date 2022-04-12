@@ -12,10 +12,10 @@ Markup:     * We used Python and ROS to fly multiple drones autonomously, making
             * Designed ArUco marker detection code using computer vision algorithms and formulated a dynamic delivery algorithm for the two drones to pick and drop the boxes to required setpoints.
             * We qualified till the semi finals and our team ranked 24 out of the participating 160 teams.
 
-<p class="text-center">
+<!-- <p class="text-center">
 {% include elements/button.html link="https://github.com/erts-RnD/strawberry_stacker" text="Host Repository" %}
 {% include elements/button.html link="https://github.com/VedangNadkarni/EYantraSS" text="Our work" %}
-</p>
+</p> -->
 
 # **International Rover Design Challenge (IRDC), 2021**
 ## Tools: Fusion 360, ANSYS
