@@ -6,11 +6,11 @@ weight: 4
 ---
 # 2022
 ### APOGEE Project Presentation
-<img align ="right" src="/img/variable_stiffness.png" width="333" height="250">
+<img align ="right" src="/img/variable_stiffness.jpg" width="333" height="250">
 1. APOGEE is the annual technical fest of BITS Pilani, Pilani Campus. Our team of six members participated in the Paper Presentation event held during APOGEE. 
 2. Our  project was an in-wheel suspension system that allows a wheel change its stiffness according to the terrain. The prototype was printed on a miniature scale to check its feasibility to implement on an actual wheel.
 3. Our team **won first position** in the mechanical domain.
-{% include elements/button.html link="https://docs.google.com/presentation/d/1ODvLDw9uiaIBXhn43udD5Mx9uPp45Y6GjwzPaIcmU_g/edit?usp=sharing" text="Project PPT" %}
+{% include elements/button.html link="https://docs.google.com/presentation/d/1B1R8Z4e5yK4eKj1oed1VaIJkPOAewnIQNWxjjOj41-w/edit?usp=sharing" text="Project PPT" %}
 
 # 2021
 ### **E-Yantra, IIT Bombay**
