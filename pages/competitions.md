@@ -21,6 +21,7 @@ weight: 4
 <!-- <br clear="left"/> -->
 {% include elements/button.html link="https://github.com/erts-RnD/strawberry_stacker" text="Host Repository" %}
 {% include elements/button.html link="https://github.com/VedangNadkarni/EYantraSS" text="Our work" %}
+{% include elements/button.html link="https://drive.google.com/file/d/1MT_EyyRvA7VtdcV8j4aReCI64xJJoj7Y/view?usp=sharing" text="Certificate" %}
 
 
 ### **International Rover Design Challenge (IRDC)**
