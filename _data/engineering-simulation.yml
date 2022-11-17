@@ -1,0 +1,11 @@
+- name: Autodesk Fusion 360
+  percentage: 95
+  color: info
+
+- name: AutoCAD
+  percentage: 80
+  color: success
+
+- name: SolidWorks
+  percentage: 50
+  color: dark

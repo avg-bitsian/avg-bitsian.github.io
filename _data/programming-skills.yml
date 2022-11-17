@@ -1,7 +1,11 @@
 - name: C++
-  percentage: 60
+  percentage: 50
   color: danger
 
 - name: Python
-  percentage: 40
+  percentage: 50
   color: secondary
+
+- name: MATLAB
+  percentage: 40
+  color: light 

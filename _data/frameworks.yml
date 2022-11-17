@@ -1,0 +1,11 @@
+- name: Pytorch
+  percentage: 20
+
+- name: TensorFlow
+  percentage: 15
+
+- name: Linux
+  percentage: 35
+
+- name: Git
+  percentage: 15

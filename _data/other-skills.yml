@@ -1,7 +1,0 @@
-- name: Autodesk Fusion 360
-  percentage: 95
-  color: info
-
-- name: AutoCAD
-  percentage: 90
-  color: success
