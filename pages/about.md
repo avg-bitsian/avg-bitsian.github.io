@@ -14,7 +14,11 @@ Sometimes, I make puns.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+</div>
+<div class='row'>
 {% include about/skills.html title="Engineering Simulation" source=site.data.engineering-simulation %}
+</div>
+<div class='row'>
 {% include about/skills.html title="Frameworks" source=site.data.frameworks %}
 </div>
 
