@@ -8,5 +8,5 @@ weight: 2
 # **Work Experience**
 <div class="row">
 <!-- {% include about/worktimeline.html source=site.data.worktimeline %} -->
-{% include "about/worktimeline.yml" %}
+{% include about/worktimeline.html %}
 </div>
