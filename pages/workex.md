@@ -7,5 +7,5 @@ weight: 2
 
 # **Work Experience**
 <div class="row">
-{% include about/timeline.html %}
+{% include about/worktimeline.html %}
 </div>
