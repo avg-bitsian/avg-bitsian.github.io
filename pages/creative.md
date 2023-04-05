@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /creative
+title: creative
+permalink: /creative/
 ---
 
 <!-- {% include 404.html %} -->
