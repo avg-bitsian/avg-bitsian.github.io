@@ -3,7 +3,7 @@
   color: danger
 
 - name: Python
-  percentage: 50
+  percentage: 60
   color: secondary
 
 - name: MATLAB

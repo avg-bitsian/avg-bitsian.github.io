@@ -9,8 +9,8 @@ weight: 1
 
 Hi I am **{{ site.author.name }}**.<br>
 I am a pre-final year student at BITS Pilani, majoring in Manufacturing Engineering. <br>
-I enjoy watching Formula 1, air crash investigations, Gordon Ramsay’s cooking shows, and listening to American 80s Rock music. I am an extrovert by nature. In my free time, I spend an ungodly amount of time browsing Quora and reddit. <br>
-Sometimes, I make puns.
+Most of my time is spent on reading and working on computational neuroscience projects. On my off-days, you'll often catch me indulging in my love for Formula 1, air crash investigations, and the culinary genius of Gordon Ramsay. My playlist is never complete without 80s Rock or Jazz music. <br>
+I am an extrovert by nature, occasionaly crafting puns to lighten the mood.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
