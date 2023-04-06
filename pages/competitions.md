@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: default
 title: Competitions
 permalink: /competitions/
-# weight: 4
+weight: 4
 ---
 # 2022
 ### APOGEE Project Presentation
@@ -19,7 +19,7 @@ permalink: /competitions/
 1. We used Python and ROS to fly multiple drones autonomously, making them pick and place boxes at given setpoints.
 2. Designed ArUco marker detection code using computer vision algorithms and formulated a dynamic delivery algorithm for the two drones to pick and drop the boxes to required setpoints.
 3. We qualified till the semi finals and our team ranked **24 out of the participating 160 teams**.
-<!-- <br clear="left"/> -->
+
 {% include elements/button.html link="https://github.com/erts-RnD/strawberry_stacker" text="Host Repository" %}
 {% include elements/button.html link="https://github.com/VedangNadkarni/EYantraSS" text="Our work" %}
 {% include elements/button.html link="https://drive.google.com/file/d/1MT_EyyRvA7VtdcV8j4aReCI64xJJoj7Y/view?usp=sharing" text="Certificate" %}
@@ -27,6 +27,6 @@ permalink: /competitions/
 
 ### **International Rover Design Challenge (IRDC)**
 <img align ="right" src="/img/IRDC_2021.png" width="333" height="187">
-<!-- ### Tools: Fusion 360, ANSYS -->
+
 This was an international virtual competition. The mechanical team designed a completely new rover based on the theme of the competition. This was our team CRISS Robotics' first ever competition and we ranked 18th out of all participating teams of the world.
-{% include elements/button.html link="https://drive.google.com/file/d/1xMNibk_3LGSugsrBwoNmly3OPilZ8qmi/view?usp=sharing" text="Certificate" %}
+{% include elements/button.html link="https://drive.google.com/file/d/1xMNibk_3LGSugsrBwoNmly3OPilZ8qmi/view?usp=sharing" text="Certificate" %} -->
