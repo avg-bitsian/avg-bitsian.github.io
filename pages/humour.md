@@ -16,7 +16,7 @@ permalink: /humour/
 * Just go to any _function_ and maintain a _good image_.
 
 > How do physics students express their pain?
-
+>
 > They measure it in _hertz_.
 
 * Carrying baked goods from the shop to your house is no _cakewalk_.
