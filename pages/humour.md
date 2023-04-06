@@ -4,25 +4,30 @@ title: humour
 permalink: /humour/
 # weight: 4
 ---
+
 ### Some puns that I make randomly. Hope you enjoy them :)
-.
+
 > How do firemen know which fire to put out first?
 >> They use a fire distinguisher.
-.
+
+
 > It is not that difficult to form relations.
 > 
 >> Just go to any function and maintain a good image.
-.
+
+
 > How do physics students express their pain?
 > 
 > They measure it in hertz.
-.
+
+
 > Carrying baked goods from the shop to your house is no cakewalk.
-.
+
+
 > An Italian chef once served bland food by mistake.
 > 
 >> His customers took it with a pinch of salt.
-.
+
 > Sometimes, people who claim to be an asset are just off by two letters.
 
 > My uncle lost his business in the packaging industry. He is still recovering from it.
