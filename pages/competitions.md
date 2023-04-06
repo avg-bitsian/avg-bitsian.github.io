@@ -2,7 +2,7 @@
 layout: default
 title: Competitions
 permalink: /competitions/
-weight: 4
+# weight: 4
 ---
 # 2022
 ### APOGEE Project Presentation
