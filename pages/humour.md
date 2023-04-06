@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: humour
 permalink: /humour/
 # weight: 4

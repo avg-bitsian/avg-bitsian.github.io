@@ -20,6 +20,7 @@ nav_exclude:                                            # The following paths ar
   - pages/index.md
   - pages/humour.md
   - pages/competitions.md
+  - pages/shots.md
   # - documentation/partials/**                           # For Documentation Only
 
 
