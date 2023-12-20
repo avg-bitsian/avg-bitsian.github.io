@@ -7,11 +7,10 @@ weight: 1
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**.<br>
-I am a final year student at BITS Pilani, majoring in Manufacturing Engineering. <br>
-Most of my time is spent on reading and working on AI and neuroscience projects. On my off-days, you'll often catch me indulging in my love for Formula 1, air crash investigations, and the culinary genius of Gordon Ramsay. My playlist is never complete without 80s Rock music. I have fun with the camera as and when time permits — impulsively clicking [pictures](https://avg-bitsian.github.io/shots/) of my surroundings. <br>
+Hi there! I am **{{ site.author.name }}**.<br>
+I am a final year student at BITS Pilani. Though I am majoring in Manufacturing Engineering, I spend most of my time working on AI and neuroscience projects. I have been an avid follower of Formula 1, air crash investigations, and Shah Rukh Khan (movies). My Spotify wrapped says that I listen to Bollywood, 80s Rock, and R&B (hey, I can't argue with data). Once in a while, I have fun with the camera; impulsively clicking [pictures](https://avg-bitsian.github.io/shots/) of my surroundings. <br>
 
-I am an extrovert by nature, occasionaly crafting [puns](https://avg-bitsian.github.io/humour/) to lighten the mood.
+You'll often find me making horrible [puns](https://avg-bitsian.github.io/humour/) to _lighten_ the mood.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
