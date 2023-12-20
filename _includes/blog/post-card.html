@@ -27,9 +27,7 @@
     
 <div class="col-lg-6 my-3 wow animated fadeIn" data-wow-delay=".15s">
   <!-- <a href="{{ post_url }}" class="post card {{ card_style }}" {%- if post.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}> -->
-  <!-- <div class="post card {{ card_style }}"> -->
-  <a href="javascript:void(0);" class="post card {{ card_style }}" style="cursor: default;"></a>
-  <!-- <div class="post card {{ card_style }} non-clickable-post"> -->
+  <a href="#" class="post card {{ card_style }}" onclick="event.preventDefault();" style="cursor: default;">
     <div class="card-body {{ text_style }}">
       <h3 class="card-title">{{ post.title }}</h3>
       <p class="card-text">
