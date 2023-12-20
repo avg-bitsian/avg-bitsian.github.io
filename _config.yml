@@ -19,7 +19,6 @@ nav_exclude:                                            # The following paths ar
   - pages/404.html
   - pages/index.md
   - pages/humour.md
-  - pages/frames.html
   - pages/competitions.md
   - pages/shots.md
   # - documentation/partials/**                           # For Documentation Only
