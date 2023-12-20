@@ -18,9 +18,9 @@ You'll often find me making horrible [puns](https://avg-bitsian.github.io/humour
 <div class='row'>
 {% include about/skills.html title="Frameworks" source=site.data.frameworks %}
 </div>
-<div class='row'>
+<!-- <div class='row'>
 {% include about/skills.html title="Engineering Simulation" source=site.data.engineering-simulation %}
-</div>
+</div> -->
 
 
 # **Education**
