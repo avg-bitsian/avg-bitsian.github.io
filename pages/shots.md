@@ -18,6 +18,7 @@ https://live.staticflickr.com/65535/52798012063_d00bf89c07.jpg      <!-- gateway
 https://live.staticflickr.com/65535/52797957455_8d2038ab3c.jpg      <!--  Starry Night -->
 https://live.staticflickr.com/65535/54448663376_ca610f6fba_c.jpg    <!-- Silence -->
 https://live.staticflickr.com/65535/52797957495_ddb8c7613b.jpg      <!-- Soda -->
+<iframe src="https://live.staticflickr.com/65535/52797957455_8d2038ab3c.jpg" width="348" height="500" alt="Starry Night"/></iframe>
 
 {% endcapture %}
 {% include elements/carousel.html %}
