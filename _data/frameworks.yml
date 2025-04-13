@@ -1,5 +1,5 @@
 - name: Pytorch
-  percentage: 35
+  percentage: 30
   color: info
 
 - name: TensorFlow
@@ -7,9 +7,9 @@
   color: warning
 
 - name: Linux
-  percentage: 25
+  percentage: 30
   color: secondary
 
 - name: Git
-  percentage: 20
+  percentage: 25
   color: primary

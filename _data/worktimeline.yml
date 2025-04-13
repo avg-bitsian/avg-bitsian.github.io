@@ -1,19 +1,32 @@
+- title: Data Scientist, Hero FinCorp
+  from: June 2025
+  to: present
+  description: Developing ML models and dashboards to enhance and track customer engagement, communication, and bounce rates as a part of pre-due management.
+
 - title: Research Intern, Harvard University
   from: June 2023
-  to: Present
-  description: Working on distributional reinforcement learning in a neural network model of dopaminergic neurons.
+  to: June 2024
+  description: Worked on distributional reinforcement learning in a neural network model of dopaminergic neurons. Supervised by <a href="https://www.mcb.harvard.edu/directory/sara-matias/"> Dr Sara Matias </a> and <a href="https://mobeets.github.io/me/"> Dr Jay Hennig </a> from the Uchida Lab.
 
 - title: Teaching Assistant, BITS Pilani
   from: January 2023
   to: June 2023
-  description: Helped and graded 150+ third-year undergraduates with Python and CAD software labs as the 
-              teaching assistant for their course Computer Aided Design, taught by <a href="https://www.bits-pilani.ac.in/pilani/amitsingh/Profile"> Dr Amit R Singh </a>.
-
-- title: Teaching Assistant, BITS Pilani
+  description: Helped and graded 150+ third-year undergraduates with Python and CAD software labs as the teaching assistant for their course Computer Aided Design, taught by <a href="https://www.bits-pilani.ac.in/pilani/amitsingh/Profile"> Dr Amit R Singh </a>.
   from: September 2022
   to: December 2022
-  description: Assisted <a href="https://www.bits-pilani.ac.in/pilani/amitsingh/Profile"> Dr Amit R Singh </a> with the course Machine Drawing (MF F217) by taking lab sessions for around 60 
-              students and assisting them in their assignments during the First Semester (Fall 2022).
+  description: Assisted Dr Amit R Singh with the course Machine Drawing (MF F217) by taking lab sessions for around 60 students and assisting them in their assignments during the First Semester (Fall 2022).
+
+# - title: Teaching Assistant, BITS Pilani
+#   from: January 2023
+#   to: June 2023
+#   description: Helped and graded 150+ third-year undergraduates with Python and CAD software labs as the 
+#               teaching assistant for their course Computer Aided Design, taught by <a href="https://www.bits-pilani.ac.in/pilani/amitsingh/Profile"> Dr Amit R Singh </a>.
+
+# - title: Teaching Assistant, BITS Pilani
+#   from: September 2022
+#   to: December 2022
+#   description: Assisted Dr Amit R Singh with the course Machine Drawing (MF F217) by taking lab sessions for around 60 
+#               students and assisting them in their assignments during the First Semester (Fall 2022).
 
 - title: Virtual Student Intern, Altair Inc.
   from: October 2021
