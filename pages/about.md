@@ -7,7 +7,7 @@ weight: 1
 
 # **About Me**
 <!-- Hi there! I am **{{ site.author.name }}**.<br> -->
-Hi there! I'm Priyansh.
+Hi there! I'm Priyansh.<br>
 As a Data Scientist at Hero FinCorp, I'm involved in building predictive models and performing detailed analyses on financial datasets to support business decisions. <br>
 Funny thing is, I actually started out studying Manufacturing Engineering at BITS Pilani. But somewhere along the line, I got completely hooked on some AI and neuroscience projects, and that basically set me off on this whole new path. <br>
 For my final year bachelor's thesis, I worked on Distributional Reinforcement Learning with [Dr Sara Matias](https://www.mcb.harvard.edu/directory/sara-matias/) and [Dr Jay Hennig](https://mobeets.github.io/me/) from Uchida Lab at Harvard University.
