@@ -1,15 +1,8 @@
-- degree: B.E. in Manufacturing Engineering
-  institution: BITS Pilani, Pilani Campus
+- title: BITS Pilani – Pilani Campus, Rajasthan, India
   from: 2020
   to: 2024
   description: |
-    Graduated with First Class Honours. Coursework included Engineering Optimisation, Supply Chain Management, Deep Learning, and Digital Image Processing.
-  thesis:
-    title: Applying Distributional Reinforcement Learning to Model Dopaminergic Neuron Activity
-    institution: Uchida Lab, Harvard University
-    duration: June 2023 - June 2024
-    supervisors:
-      - name: Dr. Sara Matias
-        url: "https://www.mcb.harvard.edu/directory/sara-matias/"
-      - name: Dr. Jay Hennig
-        url: "https://mobeets.github.io/me/"
+    Graduated with First Class Honours in Manufacturing Engineering. My coursework included (but was not limited to) Engineering Optimisation, Supply Chain Management, Deep Learning, Digital Image Processing, Calculus, and Algebra.
+
+    I pursued my bachelor's thesis at the Uchida Lab, Harvard University (June 2023 – June 2024). 
+    Supervised by <a href="https://www.mcb.harvard.edu/directory/sara-matias/">Dr. Sara Matias</a> and <a href="https://mobeets.github.io/me/">Dr. Jay Hennig</a>, my research focused on applying distributional reinforcement learning to model dopaminergic neuron activity in neural networks.
