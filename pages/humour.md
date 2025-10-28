@@ -10,6 +10,7 @@ permalink: /humour/
 ***
 
 > How do firemen know which fire to put out first?  
+
 >! They use a _fire distinguisher_.
 
 * Midsem test scores just got declared and _half_ the people I know, are _below average_. 
@@ -18,6 +19,7 @@ permalink: /humour/
 > Just go to any _function_ and maintain a _good image_.
 
 > How do physics students express their pain?  
+
 >! They measure it in _hertz_.
 
 * Carrying baked goods from the shop to your house is no _cakewalk_.
@@ -45,6 +47,7 @@ permalink: /humour/
 * Fobia: the fear of misspelled words.
 
 > What is a cop's favourite physics problem?  
+
 >! The one that involves _pulleys_
 
 * Online semester once again made me realise the definition of _obsolete_ — any computer I own.
@@ -58,6 +61,7 @@ permalink: /humour/
 > Perhaps working in overlapping hours would be best for both the worlds.
 
 > What class would a soda can take if it goes to school?
+
 >! _Fizz ed_.
 
 * The very first doctor of dermatology had to start from _scratch_.
@@ -65,6 +69,7 @@ permalink: /humour/
 * I listened to Daft Punk for the first time and it was an _instant crush_. Perhaps, I got lucky?
 
 > If Robert Downey Jr had been an athlete instead of an actor, and someone asked him 'What do you do for a living?', then what would have been his response?  
+
 >! I run, man.
 
 * I bought a new backpack because the old one had worn out. It had a lot of _bag-age_.
@@ -72,4 +77,5 @@ permalink: /humour/
 * In an argument of 'apples vs oranges', if someone is in favour of apples, would they be called _'apple-sider'_?
 
 > Why do wanderers or vagabonds not get disturbed or affected by the problems in their life?  
+
 >! Because they are _nomads_.
