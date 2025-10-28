@@ -59,25 +59,25 @@ permalink: /humour/
 <details>
   <summary>How do physics students express their pain?</summary>
   
-  They measure it in *hertz*.
+  They measure it in <em>hertz</em>.
 </details><br>
 
 <details>
   <summary>How do firemen know which fire to put out first?</summary>
   
-  They use a *fire distinguisher*.
+  They use a <em>fire distinguisher</em>.
 </details><br>
 
 <details>
   <summary>What is a cop's favourite physics problem?</summary>
   
-  The one that involves *pulleys*.
+  The one that involves <em>pulleys</em>.
 </details><br>
 
 <details>
   <summary>What class would a soda can take if it goes to school?</summary>
   
-  *Fizz ed*.
+  <em>Fizz ed</em>.
 </details><br>
 
 <details>
@@ -89,5 +89,5 @@ permalink: /humour/
 <details>
   <summary>Why do wanderers or vagabonds not get disturbed or affected by the problems in their life?</summary>
   
-  Because they are *nomads*.
+  Because they are <em>nomads</em>.
 </details><br>
