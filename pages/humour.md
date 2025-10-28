@@ -9,18 +9,22 @@ permalink: /humour/
 
 ***
 
-> How do firemen know which fire to put out first?  
-
->! They use a _fire distinguisher_.
+<details>
+  <summary>How do firemen know which fire to put out first?</summary>
+  
+  They use a _fire distinguisher_.
+</details>
 
 * Midsem test scores just got declared and _half_ the people I know, are _below average_. 
 
 > It is not that difficult to form _relations_.  
 > Just go to any _function_ and maintain a _good image_.
 
-> How do physics students express their pain?  
-
->! They measure it in _hertz_.
+<details>
+  <summary>How do physics students express their pain?</summary>
+  
+  They measure it in _hertz_.
+</details>
 
 * Carrying baked goods from the shop to your house is no _cakewalk_.
 
