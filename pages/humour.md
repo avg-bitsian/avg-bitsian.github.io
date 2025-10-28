@@ -59,35 +59,35 @@ permalink: /humour/
 <details>
   <summary>How do physics students express their pain?</summary>
   
-  They measure it in _hertz_.
-</details><br><br>
+  They measure it in *hertz*.
+</details><br>
 
 <details>
   <summary>How do firemen know which fire to put out first?</summary>
   
-  They use a _fire distinguisher_.
-</details><br><br>
+  They use a *fire distinguisher*.
+</details><br>
 
 <details>
   <summary>What is a cop's favourite physics problem?</summary>
   
-  The one that involves _pulleys_.
-</details><br><br>
+  The one that involves *pulleys*.
+</details><br>
 
 <details>
   <summary>What class would a soda can take if it goes to school?</summary>
   
-  _Fizz ed_.
-</details><br><br>
+  *Fizz ed*.
+</details><br>
 
 <details>
   <summary>If Robert Downey Jr had been an athlete instead of an actor, and someone asked him 'What do you do for a living?', what would have been his response?</summary>
   
   I run, man.
-</details><br><br>
+</details><br>
 
 <details>
   <summary>Why do wanderers or vagabonds not get disturbed or affected by the problems in their life?</summary>
   
-  Because they are _nomads_.
-</details><br><br>
+  Because they are *nomads*.
+</details><br>
